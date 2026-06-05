@@ -11,7 +11,8 @@ my_stop_words = list(text.ENGLISH_STOP_WORDS)
 
 # Thêm các từ "vô thưởng vô phạt" mà bạn quan sát thấy
 extra_words = ['good', 'great', 'really', 'just', 'think', 'game', 'like', 'time', 'people', 've', 'don', 'games',
-               'want', 'play', 'make', 'know', 'playing', 'players', 'need', 'use', 'post', 'subreddit', 'way', 'message']
+               'want', 'play', 'make', 'know', 'playing', 'players', 'need', 'use', 'post', 'subreddit', 'way', 'message', 
+               'get', 'got', 'one', 'would', 'also', 'could', 'see', 'even', 'much', 'really', 'well']
 my_stop_words.extend(extra_words)
 
 # Khi khởi tạo Vectorizer, hãy truyền danh sách này vào
