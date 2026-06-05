@@ -1,0 +1,6 @@
+# Ignore raw and processed data directories (do not push data files)
+data/processed/
+data/raw/
+
+# Keep other data subfolders or metadata files if needed (uncomment to allow)
+# !data/some_metadata/

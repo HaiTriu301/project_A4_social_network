@@ -1,0 +1,4 @@
+Thuật toán,Modularity (Q),Avg Conductance,Số cụm
+Louvain,0.8387,0.0587,35
+Leiden,0.8561,0.0654,44
+Spectral,0.5991,0.0248,20

@@ -1,0 +1,4 @@
+Thuật toán,NMI,ARI,Purity,Số cụm tìm được,Số user đánh giá
+Louvain,0.8236,0.6679,71.83%,35,27146
+Leiden,0.8822,0.8138,83.7%,44,27146
+Spectral,0.544,0.1371,37.75%,20,27146
