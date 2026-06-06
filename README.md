@@ -61,7 +61,7 @@ Raw Reddit Comments → Graph Construction → Node Indexing
 - **Nodes**: 27,147 unique users
 - **Edges**: ~155,000 weighted interactions (reply-based)
 - **Threshold**: Minimum 3 interactions to filter spam/low-activity users
-- **Ground truth**: 29 gaming subreddits used as community labels
+- **Ground truth**: 27 gaming subreddits used as community labels
 
 ## Results
 
